@@ -154,41 +154,16 @@
   <li>Built and demonstrated an AI-enabled SpiderPi robotics system combining autonomous navigation, edge vision, and IoT-style monitoring.</li>
 </ul>
 
-<h2>Repository Structure</h2>
 
-<pre>
-SpiderPi/
-├── SpiderPi.py
-├── phone_control_server.py
-├── DEMO_SETUP.md
-├── web/
-│   ├── index.html
-│   ├── app.js
-│   └── styles.css
-├── SpiderPiGesture/
-│   ├── collect_images.py
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── export_tflite.py
-│   └── gesture_model.tflite
-└── docs/
-    ├── images/
-    └── demo/
-</pre>
 
 <h2>Suggested Media To Add</h2>
 
-<ul>
-  <li>A photo of the SpiderPi robot.</li>
-  <li>A screenshot of the phone control interface.</li>
-  <li>A short demo video showing navigation, gesture control, and voice commands.</li>
-  <li>A diagram showing the flow from phone UI to Python server to SpiderPi JSON-RPC to robot actions.</li>
-</ul>
+
 
 <h2>Author</h2>
 
 <p>
   <b>Magne Dina Neves</b><br>
   Electrical and Computer Engineering Student, University of Macau<br>
-  Research interests: AI security, robotics, cyber-physical systems, IoT cybersecurity, trustworthy AI
+ 
 </p>
