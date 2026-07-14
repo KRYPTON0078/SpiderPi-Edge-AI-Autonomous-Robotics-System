@@ -151,12 +151,9 @@
   <li>Built and demonstrated an AI-enabled SpiderPi robotics system combining autonomous navigation, edge vision, and IoT-style monitoring.</li>
 </ul>
 
-
 <p align="center">
-  <img src="docs/images/SpiderPi-robot.jpeg" alt="SpiderPi Robot" width="600">
+  <img src="SpiderPi.jpeg" alt="SpiderPi Edge-AI Autonomous Robotics System" width="650">
 </p>
-
-
 
 <h2>Author</h2>
 
