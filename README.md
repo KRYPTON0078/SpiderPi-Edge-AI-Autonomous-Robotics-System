@@ -1,4 +1,4 @@
-# SpiderPi-Edge-AI-Autonomous-Robotics-System
+
 
 <h1 align="center">SpiderPi Edge-AI Autonomous Robotics System</h1>
 
@@ -6,10 +6,7 @@
   <b>Autonomous navigation, edge computer vision, gesture interaction, phone-based control, and IoT-style robot monitoring using a SpiderPi hexapod platform.</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KRYPTON0078">GitHub</a> |
-  <a href="https://www.linkedin.com/in/magne-dina-neves-86b164322">LinkedIn</a>
-</p>
+
 
 <hr>
 
