@@ -153,7 +153,7 @@
 
 
 <p align="center">
-  <img src="docs/images/SpiderPi-robot.jpg" alt="SpiderPi Robot" width="600">
+  <img src="docs/images/SpiderPi-robot.jpeg" alt="SpiderPi Robot" width="600">
 </p>
 
 
