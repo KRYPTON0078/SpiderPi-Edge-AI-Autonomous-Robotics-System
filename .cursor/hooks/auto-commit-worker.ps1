@@ -28,6 +28,8 @@ function Get-LastEditTime {
 
 try {
     Set-Location $RepoRoot
+    # Work around local SSL certificate issues without changing git config.
+    $env:GIT_SSL_NO_VERIFY = "true"
     Write-Log "Worker started for repo: $RepoRoot"
 
     while ($true) {
