@@ -56,11 +56,11 @@ try {
             break
         }
 
-        $pushOutput = git push 2>&1
+        $pushOutput = git push origin HEAD:full-local-project 2>&1
         foreach ($line in $pushOutput) { Write-Log $line }
 
         if ($LASTEXITCODE -eq 0) {
-            Write-Log "Push succeeded"
+            Write-Log "Push succeeded to origin/full-local-project"
         } else {
             Write-Log "Push failed (exit $LASTEXITCODE). Changes remain committed locally."
         }
