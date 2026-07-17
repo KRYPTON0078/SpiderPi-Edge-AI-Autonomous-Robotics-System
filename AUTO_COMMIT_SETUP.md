@@ -22,6 +22,14 @@ This project includes Cursor hooks that automatically commit and push Agent file
 - `.cursor/hooks/auto-commit-worker.ps1`
 - `.cursor/hooks/auto-commit.log` (generated at runtime, ignored by git)
 
+## Branch Note
+
+Your GitHub repo already had README commits on `main`. The full local project was pushed to:
+
+- `origin/full-local-project`
+
+Future auto-commits push to that upstream branch. When ready, merge it into `main` on GitHub with a pull request.
+
 ## Manual Push (first time)
 
 If the remote already has README commits and your local repo is new:

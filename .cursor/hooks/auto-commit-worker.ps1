@@ -56,14 +56,11 @@ try {
             break
         }
 
-        $branch = git rev-parse --abbrev-ref HEAD 2>&1
-        if (-not $branch) { $branch = "main" }
-
-        $pushOutput = git push origin $branch 2>&1
+        $pushOutput = git push 2>&1
         foreach ($line in $pushOutput) { Write-Log $line }
 
         if ($LASTEXITCODE -eq 0) {
-            Write-Log "Push succeeded on branch $branch"
+            Write-Log "Push succeeded"
         } else {
             Write-Log "Push failed (exit $LASTEXITCODE). Changes remain committed locally."
         }
