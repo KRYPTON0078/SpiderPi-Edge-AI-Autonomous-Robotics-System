@@ -34,7 +34,7 @@ End-to-end system development: perception pipeline, motion/control integration, 
 
 ## Project specification
 
-See [`PROJECT_SPEC.md`](./PROJECT_SPEC.md) for goals, constraints, acceptance criteria, and test plan (written as clear engineering requirements and used with AI-assisted implementation under human review).
+See attached documents for goals, constraints, acceptance criteria, and test plan (written as clear engineering requirements and used with AI-assisted implementation under human review).
 
 ## Relevance
 
