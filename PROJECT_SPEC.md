@@ -1,4 +1,4 @@
-# Project Specification — SpiderPi Edge-AI Autonomous Robotics System
+# Project Specification —> SpiderPi Edge-AI Autonomous Robotics System
 
 This document defines clear project requirements and acceptance criteria. It was used as the working specification for development, including AI-assisted coding under human review (requirements → implementation → testing → revision).
 
